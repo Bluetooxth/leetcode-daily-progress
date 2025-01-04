@@ -123,8 +123,8 @@ const UsernameProgress = () => {
               href="https://github.com/bluetooxth/leetcode-daily-progress"
               className="self-center"
             >
-              <p className="text-sm p-2 text-gray-200 text-center hover:underline">
-                {`https://lcdaily.vercel.app`}
+              <p className="text-sm py-2 text-gray-200 text-center hover:underline">
+                {`https://lc-daily.vercel.app`}
               </p>
             </Link>
           </div>
